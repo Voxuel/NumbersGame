@@ -37,6 +37,7 @@ namespace NumbersGame
                 int.TryParse(Console.ReadLine(), out int answer);
                 if (answer == 1)
                 {
+                    Console.Clear();
                     continue;
                 }
                 isRunning = false;
