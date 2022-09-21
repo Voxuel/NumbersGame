@@ -5,6 +5,8 @@ namespace NumbersGame
     class Program
     {
         // Leo F SUT22
+
+        // Numbers game for random generated number class.
         static void Main(string[] args)
         {
             bool isRunning = true;
